@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I’m Ray 😊
 AI Analyst learning Data Engineering. I build small pipelines, bake literal cookies, and turn messy data into usable insights.
 
