@@ -1,28 +1,35 @@
 # Hi, I’m Ray 😊
-AI Analyst learning Data Engineering. I build small pipelines, bake literal cookies, and turn messy data into usable insights.
 
-**Current focus:** learning end-to-end data pipelines — ingestion → transform → storage → basic data products.
+I’m a data and AI learner focused on cleaning messy data, building ETL workflows in Python, and understanding how AI tools fit into real-world processes.
+
+**Current focus**
+- Data cleaning and transformation with Python
+- Building and practicing ETL workflows
+- Strengthening SQL through DataCamp’s Associate Data Engineer in SQL track
+- Learning data governance and automation workflows with Claude, Claude Code, and related tools
 
 **Tech & tools**
-- Python · SQL · Git · Jupyter · Windows (PowerShell)  
-- Pandas · Requests/BeautifulSoup · Docker (learning) · Airflow / Prefect (learning)  
-- File formats: CSV · Parquet · JSON
+- Python · SQL · Git · Jupyter · VS Code · Windows
+- Pandas · file handling · data cleaning workflows · ETL concepts
+- Claude tools for automation and workflow support
+- Growing experience with databases, data warehousing, and structured data workflows
 
 **Selected projects**
-- **Job Scraper** *(WIP)* — Scrapes job listings, parses key fields, and exports structured CSV/JSON.  
-  **Stack:** Python, BeautifulSoup, pandas — *Status:* parsing + export working; next: add tests & basic ETL steps.
+- **HealthSmartAI** — contributed to the frontend and backend for a group MVP deployed on Vercel.  
+  *Stack:* Python, web development tools, deployment workflow
+- **Job Scraper** *(WIP)* — scrapes job listings, parses key fields, and exports structured data for analysis.  
+  *Stack:* Python, BeautifulSoup, pandas
 
 **Learning roadmap**
-1. Finish Job Scraper: parsing, tests, and tidy README.  
-2. Build a small ETL (CSV → transform → Parquet) and orchestrate with Airflow or Prefect.  
-3. Deploy a simple dashboard or a Streamlit preview of transformed data.
+1. Keep improving Python-based data cleaning and ETL workflow design.
+2. Continue the Associate Data Engineer in SQL track and apply it through projects.
+3. Build more projects that include analysis, visualizations, and clearer data outputs.
+4. Keep exploring how AI can support smarter, more efficient data work.
 
 **How I use GitHub**
-- Clear commit messages, small frequent commits, and a README in every repo.  
-- I tag repos with topics so others can find them.
+- Clear commit messages and small, frequent commits
+- README files that explain the purpose and setup of each project
+- Topics and structure that make repos easy to navigate
 
 **Contact**
-- LinkedIn: https://www.linkedin.com/in/raynel-harris-983b97236  
-
-*Fun fact:* I call recipe testing “user acceptance testing.”
-
+- LinkedIn: https://www.linkedin.com/in/raynel-harris-983b97236
