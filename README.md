@@ -1,6 +1,7 @@
 # Hi, I’m Ray 😊
 
-I’m a data and AI learner focused on cleaning messy data, building ETL workflows in Python, and understanding how AI tools fit into real-world processes.
+I currently work as an AI Analyst while building practical skills in data cleaning, ETL workflows, SQL, and applied AI problem-solving.
+My focus is on understanding how data, automation, and AI fit into real-world processes — from cleaning messy datasets to exploring how technical solutions can support better decision-making.
 
 **Current focus**
 - Data cleaning and transformation with Python
