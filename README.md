@@ -1,36 +1,52 @@
 # Hi, I’m Ray 😊
 
-I currently work as an AI Analyst while building practical skills in data cleaning, ETL workflows, SQL, and applied AI problem-solving.
-My focus is on understanding how data, automation, and AI fit into real-world processes — from cleaning messy datasets to exploring how technical solutions can support better decision-making.
+I work on AI applications, building practical solutions with Python, APIs, AI tools, and automation.
 
-**Current focus**
-- Data cleaning and transformation with Python
-- Building and practicing ETL workflows
-- Strengthening SQL through DataCamp’s Associate Data Engineer in SQL track
-- Learning data governance and automation workflows with Claude, Claude Code, and related tools
+Alongside my professional work, I build projects to strengthen my skills across AI, web development, SQL, data workflows, and cloud technologies. I’m particularly interested in how technical solutions can take a real-world problem and turn it into something people can actually use.
 
-**Tech & tools**
-- Python · SQL · Git · Jupyter · VS Code · Windows
-- Pandas · file handling · data cleaning workflows · ETL concepts
-- Claude tools for automation and workflow support
-- Growing experience with databases, data warehousing, and structured data workflows
+## What I’m working on
 
-**Selected projects**
-- **HealthSmartAI** — contributed to the frontend and backend for a group MVP deployed on Vercel.  
-  *Stack:* Python, web development tools, deployment workflow
-- **Job Scraper** *(WIP)* — scrapes job listings, parses key fields, and exports structured data for analysis.  
-  *Stack:* Python, BeautifulSoup, pandas
+* AI applications and LLM-powered workflows
+* Python development and API integration
+* Web development and interactive websites
+* SQL and database projects
+* Data cleaning, transformation, and ETL workflows
+* Exploring cloud technologies, automation, and MLOps
 
-**Learning roadmap**
-1. Keep improving Python-based data cleaning and ETL workflow design.
-2. Continue the Associate Data Engineer in SQL track and apply it through projects.
-3. Build more projects that include analysis, visualizations, and clearer data outputs.
-4. Keep exploring how AI can support smarter, more efficient data work.
+## Tech & tools
 
-**How I use GitHub**
-- Clear commit messages and small, frequent commits
-- README files that explain the purpose and setup of each project
-- Topics and structure that make repos easy to navigate
+**Languages & data:** Python · SQL · Pandas · PostgreSQL
 
-**Contact**
-- LinkedIn: https://www.linkedin.com/in/raynel-harris-983b97236
+**AI & applications:** LLM APIs · RAG · FAISS · OpenAI APIs · Claude · Claude Code
+
+**Development:** Git · GitHub · VS Code · Jupyter · HTML · CSS · JavaScript
+
+**Other:** APIs · ETL · Docker · AWS
+
+## Selected projects
+
+* **Echo** — RAG chatbot for Barbados immigration information, using a knowledge base built from official government sources.
+  *Stack:* Python · FAISS · OpenAI embeddings · LLM APIs
+
+* **HealthSmartAI** — AI-powered health application MVP with authentication, meal logging, calorie tracking, and AI-generated daily health insights.
+  *Stack:* Python · Firebase · AI/LLM APIs · Vercel
+
+* **ETL & Data Cleaning Projects** — Python-based workflows for cleaning, transforming, and preparing raw datasets for analysis.
+
+* **Web Projects** — designed and built websites with custom branding, layouts, assets, typography, responsive interfaces, and interactive animations.
+
+## Current direction
+
+I’m continuing to deepen my skills in AI applications, web development, data engineering, and cloud technologies, with a longer-term focus on building reliable AI and data systems.
+
+## How I use GitHub
+
+* Clear commit messages and organised project history
+* READMEs that explain the purpose, setup, and technologies used
+* Projects structured so others can understand and reproduce the work
+* Branch-based workflows for collaborative development
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/raynel-harris-983b97236
+
